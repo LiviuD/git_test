@@ -1,0 +1,1 @@
+This is my first git project. I am taking git out for a spin.
